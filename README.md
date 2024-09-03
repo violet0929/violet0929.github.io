@@ -3,37 +3,37 @@
 
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.changwon.ac.kr/ce/main.do)
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/ce/main.do)
 
 
 ## Publications
 * **YOLO v4를 기반으로 한 플레어 스택 객체 탐지 모델** (Conference)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583487)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583487)  
   이현지, 김진호, 강현우, 안동혁  
   한국정보과학회 학술발표논문집 (KCC), 2021.06.  
 
 * **시계열 딥러닝 모델을 사용한 실시간 동영상 트래픽 예측** (Conference)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11124065)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11124065)  
   김진호, 안동혁  
   한국정보과학회 학술발표논문집 (KCC), 2022.06.  
 
 * **순환 신경망 기반 딥러닝 모델들을 활용한 실시간 스트리밍 트래픽 예측** (Journal)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002934978)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002934978)  
   김진호, 안동혁  
   한국정보처리학회논문지. 컴퓨터 및 통신시스템 (KTCCS), Vol 12, No.2, pp.53-60, 2023.  
 
 * **자동화 기반 병합 알고리즘을 활용한 문서 관리 애플리케이션** (Conference)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862356)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862356)  
   김재영, 서예은, 김진호, 문이빈, 안동혁  
   한국정보과학회 학술발표논문집 (KCC), 2024.06.  
 
 * **Synthesizing tabular data of river water quality based on LSTM-GAN for river classification** (Journal)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)  
 
 * **Performance evaluation of IEEE 802.11be multi-link operation** (Journal)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)  
 
 
 ## Projects
