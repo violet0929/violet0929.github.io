@@ -39,7 +39,7 @@
 ## Projects
 
 * **Flarstack Detection** (2020.12. - 2021.06.)
-[<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
+[<img src=https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
   Flarestack object detection model based on YOLOv4  
   
 * **CIPROD Migration** (2021.12. - 2022.02.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
