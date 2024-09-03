@@ -3,7 +3,7 @@
 
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
-[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)
+[<img src="./images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)
 [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/ce/main.do)
 
