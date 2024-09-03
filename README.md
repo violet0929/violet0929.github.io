@@ -39,28 +39,28 @@
 ## Projects
 
 * **Flarstack Detection** (2020.12. - 2021.06.)
-[<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGiYPeMlpI-3dhlP8DA2HeJxaQXOEwLIlVoZeS9BF6AFlVj2yLzn7io2PDpsKURQ9RmI&usqp=CAU width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
+[<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
   Flarestack object detection model based on YOLOv4  
   
-* **CIPROD Migration** (2021.12. - 2022.02.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
+* **CIPROD Migration** (2021.12. - 2022.02.) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
   Migration of Fortran 77 based numerical analysis program to C
 
-* **Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Real-Time_Traffic_Prediction)  
+* **Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/Real-Time_Traffic_Prediction)  
   Recurrent NN based real-time traffic prediction  
 
-* **Dust Concentration Prediction** (2023.03. - 2023.06.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Dust_Concentration_Prediction)  
+* **Dust Concentration Prediction** (2023.03. - 2023.06.) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/Dust_Concentration_Prediction)  
   DL based dust concentration prediction for monitoring system   
 
-* **HRMS-T Augmentation** (2023.03. - 2023.12.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/HRMS-T_Augmentation)  
+* **HRMS-T Augmentation** (2023.03. - 2023.12.) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/HRMS-T_Augmentation)  
   High resolution mass spectrometry tabular data augmentation  
 
-* **MLO Analysis** (2024.01. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/MLO_Analysis)  
+* **MLO Analysis** (2024.01. - Current) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/MLO_Analysis)  
   Performance analysis of IEEE 802.11be multi-link operation  
 
-* **CNC Estimation** (2024.06. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
+* **CNC Estimation** (2024.06. - Current) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
   Replacement cycle estimation based on tool wear prediction of CNC machine  
   
-* **File Integration** (2024.06. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/File_Integration)  
+* **File Integration** (2024.06. - Current) [<img src="https://github.com/violet0929/violet0929.github.io/blob/main/images/repository.png" width="18" height="18" />](https://github.com/violet0929/File_Integration)  
   Automatic standard document generation based heterogeneous document integration
 
 ## Awards
