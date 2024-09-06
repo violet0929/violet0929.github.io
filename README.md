@@ -1,6 +1,7 @@
 ## Introduce
 안녕하세요, 김진호입니다.
 
+
 ## Contact
 * Gmail: teddy000929@gmail.com
 * Github: https://github.com/violet0929 [🔗](https://github.com/violet0929)
@@ -9,6 +10,7 @@
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.) [🔗](https://www.changwon.ac.kr/comnet/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.) [🔗](https://www.changwon.ac.kr/ce/main.do)
+
 
 ## Publications
 * **YOLO v4를 기반으로 한 플레어 스택 객체 탐지 모델** (Conference)
@@ -31,11 +33,11 @@
   김재영, 서예은, 김진호, 문이빈, 안동혁  
   한국정보과학회 학술발표논문집 (KCC), 2024.06.  
 
-* **Synthesizing tabular data of river water quality based on LSTM-GAN for river classification** (Journal)
-[🔗](https://www.changwon.ac.kr/comnet/main.do)  
+~~* **Synthesizing tabular data of river water quality based on LSTM-GAN for river classification** (Journal)~~
+~~[🔗](https://www.changwon.ac.kr/comnet/main.do)~~
 
-* **Performance evaluation of IEEE 802.11be multi-link operation** (Journal)
-[🔗](https://www.changwon.ac.kr/comnet/main.do)  
+~~* **Performance evaluation of IEEE 802.11be multi-link operation** (Journal)~~
+~~[🔗](https://www.changwon.ac.kr/comnet/main.do)~~
 
 
 ## Projects
@@ -64,6 +66,7 @@
 * **File Integration** (2024.06. - Current) [🔗](https://github.com/violet0929/File_Integration)  
   Automatic standard document generation based heterogeneous document integration
 
+
 ## Awards
 * **기후위기 대응과 탄소중립, 녹색 성장 리빙랩 프로젝트** 최우수 (2022.02.)  
   이현지, 박현진, 김진호, 문이빈, 우정훈
@@ -71,6 +74,7 @@
   이현지, 김진호
 * **2024 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회** 장려 (2024.07.)  
   김재영, 서예은, 김진호, 문이빈
+
 
 ## Other
 #### Academic experience
