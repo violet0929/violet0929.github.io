@@ -3,12 +3,11 @@
 
 ## Contact
 * Gmail: teddy000929@gmail.com
-* Github: https://github.com/violet0929
-[<img src="./images/github.png" width="18" height="18" />](https://github.com/violet0929)
+* Github: https://github.com/violet0929 🔗
+
 
 ## Education
-* **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
-[<img src="./images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/comnet/main.do)
+* **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)[🔗](https://www.changwon.ac.kr/comnet/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)
 [<img src="./images/url.png" width="18" height="18" />](https://www.changwon.ac.kr/ce/main.do)
 
