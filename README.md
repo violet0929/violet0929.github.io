@@ -82,8 +82,3 @@
 * Ebadom 창원 용지호수점 (2017.07. - 2018.07.)
 * Galary PC cafe 창원 마디미로점 (2022.03. - 2023.02.)
 * 3POP PC cafe 서울 사당점 (2024.08. - Current)
-
-
-
-##### Reference
-* Github icon: <a href="https://www.flaticon.com/kr/free-icons/" title="고양이 아이콘">고양이 아이콘 제작자: Dave Gandy - Flaticon</a>
