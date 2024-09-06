@@ -7,8 +7,8 @@
 
 
 ## Education
-* **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)[🔗](https://www.changwon.ac.kr/comnet/main.do)
-* **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)[🔗](https://www.changwon.ac.kr/ce/main.do)
+* **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.) [🔗](https://www.changwon.ac.kr/comnet/main.do)
+* **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.) [🔗](https://www.changwon.ac.kr/ce/main.do)
 
 ## Publications
 * **YOLO v4를 기반으로 한 플레어 스택 객체 탐지 모델** (Conference)
@@ -40,8 +40,7 @@
 
 ## Projects
 
-* **Flarstack Detection** (2020.12. - 2021.06.)
-[🔗](https://github.com/violet0929/Flarestack_Detection)  
+* **Flarstack Detection** (2020.12. - 2021.06.) [🔗](https://github.com/violet0929/Flarestack_Detection)  
   Flarestack object detection model based on YOLOv4
   
 * **CIPROD Migration** (2021.12. - 2022.02.) [🔗](https://github.com/violet0929/CIPROD_Migration)  
