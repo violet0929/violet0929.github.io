@@ -86,5 +86,5 @@
 * Galary PC cafe 창원 마디미로점 (2022.03. - 2023.02.)
 * 3POP PC cafe 서울 사당점 (2024.08. - Current)
 
-#####
+##### Reference
 Icons: Copyright © 2010-2024 Freepik Company S.L. All rights reserved.
